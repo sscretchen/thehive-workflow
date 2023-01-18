@@ -4,7 +4,7 @@ Using TheHive to show multiple workflows with the platform
 
 ## Visualizations
 
-- [ ] Playbook implementation (visio) flowchart for easy reading
+- [ ] Visieo flowchart for *Playbook* implementation
 
 ## Workflows
 
