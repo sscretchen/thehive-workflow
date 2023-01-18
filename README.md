@@ -2,10 +2,8 @@
 
 Using TheHive to show multiple workflows with the platform
 
- 
----
+## Workflows
 
-### Workflows <br><br>
 
 #### Simple Execution
 > Creating cases with manual input. This can be a quicker approach to initiating cases on the fly.
