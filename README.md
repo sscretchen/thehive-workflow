@@ -2,7 +2,7 @@
 
 Using TheHive to show multiple workflows with the platform
 
-## Visualizations
+## Open Tasks
 
 - [ ] Visio flowchart for *Playbook* implementation
 - [ ] Transfer documentation to Notion
