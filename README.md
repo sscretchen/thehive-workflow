@@ -39,7 +39,7 @@ Using TheHive to show multiple workflows with the platform
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54426511/213081956-999da5af-d83d-4463-bd5c-e7905cd5b25e.PNG" style="width:auto" height="auto">
-  <b>Fig.5 - Sample log details from SOC anlayst</b>
+  <b>Fig.5 - Sample log details from SOC anlayst.</b>
 </p>
 
 
