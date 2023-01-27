@@ -20,6 +20,7 @@ Using TheHive to show multiple workflows with the platform
 ### Manual Execution
 > An on the fly approach to building cases
 
+#### STEP 1
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54426511/213080165-ea6aa1e6-3fcd-4f4f-a83f-8c681dd2ef7d.PNG" style="width:auto" height="auto">
@@ -52,6 +53,8 @@ Case view. The next step is to add tasks releated to this incident.
 
 ***
 
+#### STEP 2
+
 When adding tasks, I want this to be based on established procedures from an incident plan or playbook. In this demonstration I will focus on the triage & collection of artifacts. Once in the main Case view, click on the Tasks tab and start `+ Add Task` activities.
 
 <p align="center">
@@ -64,6 +67,10 @@ Once the task is assigned, the user can now start their response. First step wou
   <img src="https://user-images.githubusercontent.com/54426511/213080171-d9c5f845-af98-4667-8ffd-e05632a4713f.PNG" style="width:auto" height="auto">
 </p>
 
+***
+
+#### STEP 3
+
 The scope of performing incident response is beyond the simple documentation here but I have included a sample log that a user can put in their assigned case such as identifying affected workstations. The important thing to remember with Incident Response is there are established guidlines that can be followed. guidelines such as the four NIST Incident Response Steps:
 
 1. :blue_book: Preparation
@@ -75,6 +82,7 @@ The scope of performing incident response is beyond the simple documentation her
   <img src="https://user-images.githubusercontent.com/54426511/213081956-999da5af-d83d-4463-bd5c-e7905cd5b25e.PNG" style="width:auto" height="auto">
 </p>
 
+---
 
 ### Playbook Execution
 > Critical incidents may call for a more thorough approach. This demonstration will use established playbooks and map any identified TTPs to the MITRE ATT&CK framework.
