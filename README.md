@@ -13,7 +13,7 @@ Using TheHive to show multiple workflows with the platform
 💡 There are two ways I use with TheHive
 
 1. Manual input for building cases
-2. Using established playbooks. This will allow me to map any identified TTPs to the MITRE ATT&CK framework.
+2. Using established playbooks
 
 ---
 
