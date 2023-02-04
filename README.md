@@ -107,7 +107,7 @@ Case tempalte view. Here I will begin to outline the Case Details. I will use si
   <img src="https://user-images.githubusercontent.com/54426511/216750947-0cf6ca57-07df-4b77-a6be-759cc5fc4ae3.PNG" style="width:auto" height="auto">
 </p>
 
-Similar to the manual case, I will add details such as the severity and permissions. This template covers the MITRE technique `T1486` 💡 <a href="https://attack.mitre.org/techniques/T1486/">Technique Details</a>
+Similar to the manual case, I will add details such as the severity and permissions. This template covers the MITRE technique `T1486` 💡 <a href="https://attack.mitre.org/techniques/T1486/">Technique Details</a>. I will start adding the tasks next.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54426511/216752314-0f3358ed-455b-46bd-8821-444717796d4f.png" style="width:auto" height="auto">
