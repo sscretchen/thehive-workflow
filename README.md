@@ -27,8 +27,6 @@ Using TheHive to show multiple workflows with the platform
 </p>
 The main panel view for the user. I use this area to track any cases assigned or created myself. I will have more information to show as I build out a simulated case.
 
-***
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/54426511/215211798-87e01701-8a8e-47b9-83d9-87bbd63e8855.PNG" style="width:auto" height="auto">
 </p>
@@ -85,4 +83,44 @@ The scope of performing incident response is beyond the simple documentation her
 ---
 
 ### Playbook Execution
-> Critical incidents may call for a more thorough approach. This demonstration will use established playbooks and map any identified TTPs to the MITRE ATT&CK framework.
+> Critical incidents may call for a more thorough approach. This demonstration will use established playbooks and map any identified TTPs to the MITRE ATT&CK framework. This will be done by creating Case Templates
+
+#### STEP 1
+
+<p>
+  This <a href="https://github.com/austinsonger/Incident-Playbook/">GitHub project</a> is a good source for existing playbooks because it hosts a series of catalogs that cover multiple areas of Incident Response.
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54426511/216750456-992df46c-3b32-481e-88b2-1babf4f41fea.PNG" style="width:auto" height="auto">
+</p>
+
+Admin rights are needed to create case templates
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54426511/216750618-2d44bda0-2066-4a96-9969-a2c59f591ece.png" style="width:auto" height="auto">
+</p>
+
+Case tempalte view. Here I will begin to outline the Case Details. I will use similar options from the manual demonstration for consistency. That MISP template will come into play later. That is an OSINT Threat Intelligence platform.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54426511/216750947-0cf6ca57-07df-4b77-a6be-759cc5fc4ae3.PNG" style="width:auto" height="auto">
+</p>
+
+Similar to the manual case, I will add details related to the Incident. This template covers the MITRE technique `T1486` 💡 <a href="https://attack.mitre.org/techniques/T1486/">Technique Details</a>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54426511/216752314-0f3358ed-455b-46bd-8821-444717796d4f.png" style="width:auto" height="auto">
+  <img src="https://user-images.githubusercontent.com/54426511/216752100-69baf612-6973-4c25-ba82-1b86969559cd.png" style="width:auto" height="auto">  
+</p>
+
+First task is in, but a playbook isn't doing much without actionable items. So I will break this down further with a focus on the investigative tasks of response. The Task Group has also been isolated. You may be responsible for other areas such as Remidiation, or Eradication, but you cant do any of that if you dont know what your looking for 🕵️
+
+*The main tasks of this template:*
+
+1. Determine the type of ransomware
+2. Determine the scope
+3. Assess the impact to prioritize resources
+4. Find the infection vector
+
+---to be continued---
